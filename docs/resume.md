@@ -1,4 +1,4 @@
-*Biografie
+* Biografie
 Portfolio
 Werkervaring
 Kennis webtechnologieën
