@@ -1,1 +1,1 @@
-![Logo](http://francky.me/images/quora001.png)
+![Logo](http://imgur.com/NSxrJpM)
