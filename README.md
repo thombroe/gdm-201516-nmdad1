@@ -1,1 +1,1 @@
-# gdm-201516-nmdad1
+![Logo](http://francky.me/images/quora001.png)
