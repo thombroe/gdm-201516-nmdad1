@@ -1,6 +1,6 @@
 * Biografie
-Portfolio
-Werkervaring
-Kennis webtechnologieën
-Softwarekennis
-Contactinformatie
+* Portfolio
+* Werkervaring
+* Kennis webtechnologieën
+* Softwarekennis
+* Contactinformatie
